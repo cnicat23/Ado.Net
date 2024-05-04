@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07F2492-17D0-42AC-820F-75ECAB48DBBB}|Data\\Data.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\data\\repositoryconcrets\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07F2492-17D0-42AC-820F-75ECAB48DBBB}|Data\\Data.csproj|solutionrelative:data\\repositoryconcrets\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA096D-4DFB-43B3-88BB-DB8808F51D8C}|ConsoleApp22\\AdoNet.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\consoleapp22\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AA096D-4DFB-43B3-88BB-DB8808F51D8C}|ConsoleApp22\\AdoNet.csproj|solutionrelative:consoleapp22\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA096D-4DFB-43B3-88BB-DB8808F51D8C}|ConsoleApp22\\ConsoleApp22.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AA096D-4DFB-43B3-88BB-DB8808F51D8C}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FF2B14-143A-4B82-984F-84A06BD7C9D8}|Business\\Business.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\business\\services\\concrets\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FF2B14-143A-4B82-984F-84A06BD7C9D8}|Business\\Business.csproj|solutionrelative:business\\services\\concrets\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FF2B14-143A-4B82-984F-84A06BD7C9D8}|Business\\Business.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FF2B14-143A-4B82-984F-84A06BD7C9D8}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68190CE9-96CC-42F3-84FD-BE903D726E78}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\core\\repositoryabstract\\\u0130productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68190CE9-96CC-42F3-84FD-BE903D726E78}|Core\\Core.csproj|solutionrelative:core\\repositoryabstract\\\u0130productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07F2492-17D0-42AC-820F-75ECAB48DBBB}|Data\\Data.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07F2492-17D0-42AC-820F-75ECAB48DBBB}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68190CE9-96CC-42F3-84FD-BE903D726E78}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp22\\core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68190CE9-96CC-42F3-84FD-BE903D726E78}|Core\\Core.csproj|solutionrelative:core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Business\\Services\\Concrets\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrets\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Business\\Services\\Concrets\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrets\\ProductService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:56:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:56:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\ConsoleApp22\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\ConsoleApp22\\Program.cs",
+              "RelativeToolTip": "ConsoleApp22\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:31:42.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\ConsoleApp22\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\ConsoleApp22\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ConsoleApp22\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:56:52.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Data\\RepositoryConcrets\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcrets\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Data\\RepositoryConcrets\\ProductRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcrets\\ProductRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:56:18.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u0130ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Core\\RepositoryAbstract\\\u0130ProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstract\\\u0130ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Core\\RepositoryAbstract\\\u0130ProductRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstract\\\u0130ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:55:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Core\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:55:31.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp22\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:54:41.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
